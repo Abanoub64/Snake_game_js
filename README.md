@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1faa74bd-2ea7-48d0-9021-61e33cdb2597" /># 🐍 Snake Game (JavaScript)
+# 🐍 Snake Game (JavaScript)
 
 A modern, browser-based take on the classic Snake game — built entirely with **vanilla HTML, CSS, and JavaScript**.  
 Play instantly on [GitHub Pages](https://abanoub64.github.io/Snake_game_js/) 🎮.
@@ -7,7 +7,7 @@ Play instantly on [GitHub Pages](https://abanoub64.github.io/Snake_game_js/) �
 
 ## 📸 Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf24e02e-5819-4185-993f-6d2fe48b7c37" />
+<img width="437" height="518" alt="image" src="https://github.com/user-attachments/assets/3963a496-e98c-491a-a5e9-527c0fb8575b" />
 
 ---
 
